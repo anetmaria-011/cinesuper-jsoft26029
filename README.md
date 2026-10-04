@@ -2,7 +2,7 @@
 
 **Live Demo:** https://github.com/anetmaria-011/cinesuper-jsoft26029
 
-**Student:** ANET MARIA | **JSOFT ID: JSOFT26029** YOUR JSOFT ID
+**Student:** ANET MARIA | **JSOFT ID: JSOFT26029**
 **Institution:** Jain School of Future Technology
 **Course:** Database Management Systems | **Faculty:** Sathish Kumar M
 
