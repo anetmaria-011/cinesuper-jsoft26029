@@ -1,6 +1,6 @@
 # 🎬 CineSuper — Mini OTT Movie Database
 
-**Live Demo:** https://YOUR-USERNAME.github.io/cinesuper-YOUR-JSOFT-ID/
+**Live Demo:** https://github.com/anetmaria-011/cinesuper-jsoft26029
 
 **Student:** ANET MARIA | **JSOFT ID: JSOFT26029** YOUR JSOFT ID
 **Institution:** Jain School of Future Technology
